@@ -1,2 +1,2 @@
-# shooter-space
+# Shooter Space
 Shooter Space game with Pygame
